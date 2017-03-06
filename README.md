@@ -8,7 +8,7 @@ Demo application using socket.io
 
 The following was used to create this project
 
-* node.js 2.3.1
+* node.js
 * socket.io 
 
 ## Getting started
