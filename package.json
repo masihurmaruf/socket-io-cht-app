@@ -1,0 +1,26 @@
+{
+  "name": "iochat",
+  "version": "1.0.0",
+  "description": "simaple chat app using socket io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "*",
+    "jquery": "^3.1.1",
+    "socket.io": "*",
+    "tether": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masihurmaruf/socket-io-cht-app.git"
+  },
+  "author": "masihur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masihurmaruf/socket-io-cht-app/issues"
+  },
+  "homepage": "https://github.com/masihurmaruf/socket-io-cht-app#readme"
+}
